@@ -6,7 +6,7 @@ import numpy as np
 import base64
 import cv2
 app = Flask(__name__)
-dic = {0:'umbrella',1:'banana',2:'grapes',3:'pineapple'}
+dic = {0:'Umbrella',1:'Banana',2:'Grapes',3:'Pineapple'}
 # dic = {0:'cookie',1:'clock',2:'donut',3:'wheel'}
 
 model = tf.keras.models.load_model('model.h5')
