@@ -1,6 +1,6 @@
 Flask Drawing Recognition Application based on CNN model
 
-![preview](preview.jpg)
+![preview](https://user-images.githubusercontent.com/74718176/145699425-f2eb8dd6-03a3-425e-b7aa-e4d706d94adf.jpg)
 
 <br />
 
@@ -14,14 +14,14 @@ Vu Dang Long | long.vu190404@vnuk.edu.vn
 
 ## Flow Chart of this processing:
 
-![flow](flow.jpg)
+![flow](https://user-images.githubusercontent.com/74718176/145699437-7455a9d4-e459-40dd-a779-2f5ef097c306.jpg)
 
 <br />
 
 ## Making model
 In this project, I use data from 'Quick, draw' dataset which is a very popular game where users draw object rely on machine's questions. You can find dataset in [here](https://github.com/googlecreativelab/quickdraw-dataset).
 I focus my use case on 3 fruits: grape, pineapple, banana and 1 object is umbrella. Here is a sample of data: 
-![classes](classes.png)
+![classes](https://user-images.githubusercontent.com/74718176/145699440-c7d1a440-f17e-4fb3-8146-6ba59b484464.png)
 <br />
 
 
@@ -48,10 +48,10 @@ Saved pictues folder : Image that drawed by users will be saved in this folder t
 
 ## Run the app
 The last step is to launch our app! You can go into Darwing App Folder(you can find app.py in there) and use flask run or python app.py
-![flask](flask.jpg)
+![flask](https://user-images.githubusercontent.com/74718176/145699448-772f4a44-68c4-4efe-985f-a581f5369e7b.jpg)
 
 Your app will be running on your local server. By default is 127.0.0.1:5000
-![final](final.png)
+![final](https://user-images.githubusercontent.com/74718176/145699451-0886eb62-8b35-439b-9fef-633a34bae89f.png)
 
 
 ## Conclusion
