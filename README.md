@@ -63,4 +63,4 @@ This is one over many possible uses of Flask to deploy machine learning models. 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) <br />
 ## Author 
-VU DANG LONG [@VU DANG LONG](long.vu190404@vnuk.edu.vn).<br />
+VU DANG LONG [@VU DANG LONG](https://github.com/longgggg1310).<br />
